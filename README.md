@@ -17,7 +17,7 @@ npm i mobile-angular-ui
 
 Getting Started, Demo, Docs at http://mobileangularui.com.
 
-![](http://mobileangularui.com/assets/img/phone.png)
+
 
 ### Support development
 
